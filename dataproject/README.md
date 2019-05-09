@@ -6,7 +6,7 @@ The results of the project can be seen from running Dataproject.ipynb.
 
 This loades one dataset:
 
-INDKP101.xlsx downloaded from www.statistikbanken.dk/NKN1
+NKN1.xlsx downloaded from www.statistikbanken.dk/NKN1
 
 Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
 
