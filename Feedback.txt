@@ -1,29 +1,29 @@
 gnh408 provided peer-feedback to:
 
-1. Data project: Den Usynlige Fod    - https://github.com/NumEconCopenhagen/projects-2019-den-usynlige-fod/issues/1
+* Data project: Den Usynlige Fod    - https://github.com/NumEconCopenhagen/projects-2019-den-usynlige-fod/issues/1
 
-2. Data project: Tvaerfaglige Tosser - https://github.com/NumEconCopenhagen/projects-2019-tvaerfaglige-tosser/issues/1
+* Data project: Tvaerfaglige Tosser - https://github.com/NumEconCopenhagen/projects-2019-tvaerfaglige-tosser/issues/1
 
-3. Model project: 1312       - https://github.com/NumEconCopenhagen/projects-2019-1312/issues/8
+* Model project: 1312       - https://github.com/NumEconCopenhagen/projects-2019-1312/issues/8
 
-4. Model project: OB4ever    - https://github.com/NumEconCopenhagen/projects-2019-ob4ever/issues/5
+* Model project: OB4ever    - https://github.com/NumEconCopenhagen/projects-2019-ob4ever/issues/5
 
 lxm365 provided peer-feedback to:
 
-1. Data project: Athena      - https://github.com/NumEconCopenhagen/projects-2019-athena/issues/4
+* Data project: Athena      - https://github.com/NumEconCopenhagen/projects-2019-athena/issues/4
 
-2. Data project: ABS         - https://github.com/NumEconCopenhagen/projects-2019-abs/issues/4
+* Data project: ABS         - https://github.com/NumEconCopenhagen/projects-2019-abs/issues/4
 
-3. Model project: Faetter BR - https://github.com/NumEconCopenhagen/projects-2019-faetter-br/issues/7
+* Model project: Faetter BR - https://github.com/NumEconCopenhagen/projects-2019-faetter-br/issues/7
 
-4. Model project: KingCobra  - https://github.com/NumEconCopenhagen/kingcobra/issues/11
+* Model project: KingCobra  - https://github.com/NumEconCopenhagen/kingcobra/issues/11
 
 qtp500 provided peer-feedback to:
 
-1. Data project: OB4ever             - https://github.com/NumEconCopenhagen/projects-2019-ob4ever/issues/1
+* Data project: OB4ever             - https://github.com/NumEconCopenhagen/projects-2019-ob4ever/issues/1
 
-2. Data project: Tobias_Jacob_Sandru - https://github.com/NumEconCopenhagen/projects-2019-tobias_jacob_sandru/issues/2
+* Data project: Tobias_Jacob_Sandru - https://github.com/NumEconCopenhagen/projects-2019-tobias_jacob_sandru/issues/2
 
-3. Model project: SB                 - https://github.com/NumEconCopenhagen/projects-2019-sb/issues/6
+* Model project: SB                 - https://github.com/NumEconCopenhagen/projects-2019-sb/issues/6
 
-4. Model project: Peter Larsens Kaffe m. havre - https://github.com/NumEconCopenhagen/projects-2019-peter-larsens-kaffe-m-havre/issues/6
+* Model project: Peter Larsens Kaffe m. havre - https://github.com/NumEconCopenhagen/projects-2019-peter-larsens-kaffe-m-havre/issues/6
