@@ -8,8 +8,8 @@ This repository contains:
    - Simulation of the AS-AD model
    - Exchange economy
 * [/modelproject](/modelproject): In this project, we solve three variations of the Solow Model:
-   i) The General Solow Model,
-   ii) The General Solow Model with Land,
-   iii) The Solow Model with Human Capital.
+   - The General Solow Model,
+   - The General Solow Model with Land,
+   - The Solow Model with Human Capital.
 We solve for steady state in each of the models. This is done symbolic and numerical. Furthermore, we plot all of the relevant phase diagrams with interactive sliders for each of the models' parameters.
  
