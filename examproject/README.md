@@ -1,3 +1,9 @@
 # Examproject
 
-Should contain a short introduction to your project, and show how to produce your results.
+The examproject-notebook consists of our answers to three problems pertaining to:
+
+   - Human capital and labour supply,
+
+   - Simulation of the AS-AD model,
+
+   - Exchange economy.
