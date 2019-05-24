@@ -1,4 +1,4 @@
-# Welcome to the repository of VEM
+# Welcome to the repository of group VEM
 
 This repository contains:
 
@@ -13,4 +13,3 @@ This repository contains:
    - The Solow Model with Human Capital.
 
 We solve for steady state in each of the models. This is done symbolic and numerical. Furthermore, we plot all of the relevant phase diagrams with interactive sliders for each of the models' parameters.
- 
