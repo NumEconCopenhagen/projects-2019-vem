@@ -11,6 +11,6 @@ This repository contains:
    - The General Solow Model,
    - The General Solow Model with Land,
    - The Solow Model with Human Capital.
-We solve for steady state in each of the models.
-This is done symbolic and numerical. Furthermore, we plot all of the relevant phase diagrams with interactive sliders for each of the models' parameters.
+
+We solve for steady state in each of the models. This is done symbolic and numerical. Furthermore, we plot all of the relevant phase diagrams with interactive sliders for each of the models' parameters.
  
